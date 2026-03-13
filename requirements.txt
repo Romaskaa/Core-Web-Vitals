@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+openai
+matplotlib
+python-multipart
+aiofiles
+jinja2
+python-dotenv
